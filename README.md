@@ -2,6 +2,6 @@
 Final Project for the course
 
 1. In order to run the code, make sure that the directory of the datasets corresponds to the path in the first cell of the notebook. 
-2. Additional places in the noteook that contain paths (such as path of the directory where the reports are written to) should be also adjusted before running the cells
+2. Additional places in the noteook that contain paths (such as path of the directory where the reports are written to) should be also adjusted before running the cells ('/kaggle/input/classificationreports' --> /directory/where/csv_reports_are_located)
 3. Best parameters of the PA Forest model are:
   {'n_estimators': 50, 'max_depth': 45}
